@@ -3,4 +3,4 @@ layout: default
 permalink: /about/
 ---
 
-Coming soon...
+Coming soon!
