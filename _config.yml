@@ -5,9 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en"
-title                    : "The GummiFactory"
+title                    : "GummiFactory"
 title_separator          : "-"
 name                     : ""
 description              : ""
