@@ -5,21 +5,21 @@ title: "The GummiFactory"
 
 header:
   overlay_image: gummiarm_shake_close.jpg
-  overlay_filter: "0.4"
+  overlay_filter: "0.1"
   cta_label: "Go to shop"
   cta_url: "/shop/"
   caption:
 excerpt: "A printable and variable-stiffness GummiArm. Starting at €7750."
 
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
+  - excerpt: 'GummiArm is an open source, bio-inspired robotic arm for education and research. You can build your own GummiArm, or order it all ready to be deployed to your laboratory and start using it with no delay.'
 
 feature_row1:
-  - image_path: gummiarm_side_w_hands.jpg
-    alt: "GummiArm with hand."
+  - image_path: 3D_printer_extruder.jpg
     title: "Simply replicable."
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: 'Replicate and extend research experiments on embodied cognitive robotics.
+Or make GummiArm your bench for demonstrating concepts accross the whole STEAM range at higher education or high school.'
+    url: "/simplyReplicable/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -27,8 +27,8 @@ feature_row2:
   - image_path: gummiarm_logo.jpg
     alt: "The GummiArm with logo."
     title: "Variable passive compliance."
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: 'GummiArm is a bio-inspired robotic arm which follows the human muscle-tendon system design principle known in the robotics community as Variable Stiffness Actuation, in an agonist-antagonist configuration, enabling control over both, the bandwidth and stiffness during actuation.'
+    url: "/variablePassiveCompliance/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -36,8 +36,17 @@ feature_row3:
   - image_path: gummiarm_ball.jpg
     alt: "The GummiArm with a red ball."
     title: "Ready for work, and science."
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: 'GummiArm allows researchers in the Embodied Intelligence, Cognitive Robotics or Developmental Robotics communities to implement models that could not be implemented in standard robotic arms.'
+    url: "/readyToWorkAndScience/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+feature_row4:
+  - image_path: gummi_soft1.jpg
+    alt: "The GummiArm after playing with the cat, or rather, after the cat played with it."
+    title: "Soft for interaction."
+    excerpt: 'GummiArm is a soft robotic arm, its main body is built with PLA 3D printed parts. Actuation is achieved by means of a pulley system using elastic filament composite strings and standard servomotors.'
+    url: "/softGummiArm/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -50,6 +59,8 @@ feature_row3:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="left" %}
 
 {% include base_path %}
 
