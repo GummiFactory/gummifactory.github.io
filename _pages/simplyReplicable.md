@@ -1,5 +1,5 @@
 ---
-title: “Simply Replicable”
+title: Simply Replicable
 layout: splash
 permalink: /simplyReplicable/
 

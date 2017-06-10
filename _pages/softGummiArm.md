@@ -1,5 +1,5 @@
 ---
-title: “Soft for Interaction”
+title: Soft for Interaction
 layout: splash
 permalink: /softGummiArm/
 

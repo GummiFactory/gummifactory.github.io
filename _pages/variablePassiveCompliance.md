@@ -1,5 +1,5 @@
 ---
-title: “Variable Passive Compliance”
+title: Variable Passive Compliance
 layout: splash
 permalink: /variablePassiveCompliance/
 
