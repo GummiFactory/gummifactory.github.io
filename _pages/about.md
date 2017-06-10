@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 
 header:
-  image: gummi_factory.jpg
+  image: india_uk.jpg
 
 ---
 
