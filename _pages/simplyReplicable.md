@@ -21,7 +21,7 @@ feature_row2:
   - image_path: gummi_movement.jpg
     alt: "placeholder image 2"
 #    title: "Placeholder Image Right Aligned"
-    excerpt: 'The project is based on concurrent development of software and hardware and is opened to the community so everyone can build its own platform, extend the design, share the software and exchange baselines, see [https://mstoelen.github.io/GummiArm/]([https://mstoelen.github.io/GummiArm/) <br /> <br />Alternatively, you can purchase a ready built GummiArm and just add your own bricks to the platform.'
+    excerpt: 'The project is based on concurrent development of software and hardware and is opened to the community so everyone can build its own platform, extend the design, share the software and exchange baselines, see [https://mstoelen.github.io/GummiArm/](https://mstoelen.github.io/GummiArm/) <br /> <br />Alternatively, you can purchase a ready built GummiArm and just add your own bricks to the platform.'
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
