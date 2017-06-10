@@ -53,14 +53,14 @@ Intro here.
     * 1x actuator for hand actuation (can easily be extended)
     * 1x Tendon-driven antropomorphic hand
     * 2x 140 mm slewing bearings
-  * High-quality Robotis Dynamixel servos  
+  * High-quality [Robotis Dynamixel](http://www.robotis.us/dynamixel/) servos  
     * 6x Dynamixel MX-106t  
     * 3x Dynamixel MX-64t  
     * 4x Dynamixel AX-18a  
     * 5x Dynamixel AX-12a
-  * State-of-the-art Taulman printed parts  
+  * State-of-the-art [Taulman3D](http://taulman3d.com) printed parts  
     * Taulman Alloy 910 for high-toughness parts  
-    * Taulman PET for high-stiffness parts
+    * Taulman PET-based plastics for higher-stiffness parts
     * Comes with white/semi-transparent colour as standard, contact us for options
   * Optional pan neck mechanism  
     * Comes with mount for Kinect sensor (can easily fit other sensors/heads)
@@ -78,7 +78,7 @@ Intro here.
 **Requirements:**
 
   * High-spec computer with Ubuntu 16.04
-  * ROS Kinetic Kame with Moveit! installed
+  * [ROS Kinetic Kame](http://wiki.ros.org/kinetic) with Moveit! installed
   * Optional 3D sensor for pan neck mechanism, e.g. Microsoft Kinect
   * 110-220V power outlet
   * UK plug provided. Can be easily be swapped for EU/US cable/plug by customer

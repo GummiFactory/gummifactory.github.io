@@ -1,21 +1,14 @@
 ---
-title: Ready to Work and Science
 layout: splash
 permalink: /readyToWorkAndScience/
 
 header:
-  overlay_image: gummiarm_side_w_hands.jpg
-  overlay_filter: "0.4"
-  caption:
+  image: gummiarm_side_w_hands.jpg
 
 feature_row1:
   - image_path: gummiarm_ready_to_work.jpg
     alt: "placeholder image 2"
-#    title: Placeholder Image Right Aligned
-    excerpt: 'GummiArm allows researchers in the Embodied Intelligence, Cognitive Robotics or Developmental Robotics communities to implement models that could not be implemented in standard robotic arms. <br /> <br />GummiArm can outsource computation to the physical body, making the realisation of many tasks easier than when using classical control and computation models.<br /> <br /> Running experiments on a system where intelligence emerges from the interaction between the body and the environment is possible with GummiArm.'
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--inverse"
+    excerpt: 'The GummiArm allows researchers in the Embodied Intelligence, Cognitive Robotics or Developmental Robotics communities to implement models that could not be implemented in standard robotic arms. <br /> <br />A soft body like the GummiArm can outsource computation to the physical body, making the realisation of many tasks easier than when using classical control and computation models (Hauser, 2016).<br /> <br />  One of the motivations for developing the GummiArm was to run experiments on a system where intelligence emerges from the interaction between the body and the environment. <br /> <br /> Another motivation was to put these concepts to work on real robotics applications where varying the passive compliance can have real benefits. For example for absorbing impacts by being soft when moving fast, and stiffening up when precision is required. <br /> <br /> We hope you can join the GummiArm community!'
 ---
 
 {% include feature_row id="feature_row1" type="right" %}

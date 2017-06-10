@@ -9,13 +9,24 @@ header:
   caption:
 
 feature_row1:
-  - image_path: gummiarm_tool.jpg
+  - image_path: gummiarm_repair.jpg 
     alt: "placeholder image 2"
 #    title: "Placeholder Image Right Aligned"
-    excerpt: 'GummiArm is an open source robotic arm designed and built by Dr. Martin F. Stoelen as part of the DeCoRo project at Plymouth University, Plymouth, UK. <br /><br /> The platform is built with 3D printed parts, and affords to replicate research experiments on cognitive robotics, or tutorials/practicals for secondary and higher education.<br /><br /> The project is based on concurrent development of software and hardware and is opened to the community so everyone can build its own platform, extend the design, share the software and exchange baselines, see https://mstoelen.github.io/GummiArm/.<br /> <br />Alternatively, you can purchase a ready built GummiArm and just add your own bricks to the platform.'
+    excerpt: 'The GummiArm is an open source robotic arm designed and built by Dr. Martin F. Stoelen as part of the DeCoRo project at Plymouth University, Plymouth, UK. <br /><br /> The platform is built with 3D printed parts, and affords to replicate research experiments on cognitive robotics, or tutorials/practicals for secondary and higher education.'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
+
+feature_row2:
+  - image_path: gummi_movement.jpg
+    alt: "placeholder image 2"
+#    title: "Placeholder Image Right Aligned"
+    excerpt: 'The project is based on concurrent development of software and hardware and is opened to the community so everyone can build its own platform, extend the design, share the software and exchange baselines, see [https://mstoelen.github.io/GummiArm/]([https://mstoelen.github.io/GummiArm/) <br /> <br />Alternatively, you can purchase a ready built GummiArm and just add your own bricks to the platform.'
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="feature_row1" type="right" %}
+
+{% include feature_row id="feature_row2" type="right" %}
