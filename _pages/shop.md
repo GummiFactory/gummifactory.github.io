@@ -21,7 +21,7 @@ The desktop and floor mounts are made from durable extruded aluminium profiles t
   
 The desktop stand is half-height and can be clamped to a table or desktop surface. It is easily transported with the robot in the lightweight travel suitcase included. The floor stand comes with castor wheels and handles, and an adjustable height aluminium table for your laptop. The floor stand and robot transports nicely in the two lightweight travel suitcases included. <br><br>
   
-The arm comes fully assembled and tested. All printable parts and code are open source and available from our repository: [https://github.com/GummiFactory/GummiArm](https://github.com/GummiFactory/GummiArm) <br><br>
+The arm comes fully assembled and tested. All printable parts and code are open source and available from our repository: [https://github.com/GummiFactory/GummiArm](https://github.com/GummiFactory/GummiArm){:target="_blank"} <br><br>
 
 **Important:** Our lead time is currently 5 weeks before shipping. Thanks for you patience! <br><br>
 '
@@ -47,7 +47,7 @@ The arm comes fully assembled and tested. All printable parts and code are open 
 </form>
 
 
-*Note: If you are an international customer, please contact us for a quote with shipping: [gummi@fieldworkrobotics.com](gummi@fieldworkrobotics.com)*
+*Note: If you are an international customer, please contact us for a quote with shipping: [gummi@fieldworkrobotics.com](mailto:gummi@fieldworkrobotics.com)*
 
 
 ---
@@ -63,12 +63,12 @@ The arm comes fully assembled and tested. All printable parts and code are open 
   * Approx. 0.5 kg payload under most conditions
     * Approx. 0.75 kg payload at rest pose (elbow at 90° and lower arm horizontal)
     * Can be easily increased by reducing pulley diameters
-  * High-quality [Robotis Dynamixel](http://www.robotis.us/dynamixel/) servos  
+  * High-quality [Robotis Dynamixel](http://www.robotis.us/dynamixel/){:target="_blank"} servos  
     * 6x Dynamixel MX-106t  
     * 3x Dynamixel MX-64t  
     * 4x Dynamixel AX-18a  
     * 5x Dynamixel AX-12a
-  * State-of-the-art [Taulman3D](http://taulman3d.com) printed parts  
+  * State-of-the-art [Taulman3D](http://taulman3d.com){:target="_blank"} printed parts  
     * Taulman Alloy 910 for high-toughness parts  
     * Taulman PET-based plastics for higher-stiffness parts
     * Comes with white/semi-transparent colour as standard, contact us for options
@@ -89,7 +89,7 @@ The arm comes fully assembled and tested. All printable parts and code are open 
 **Requirements:**
 
   * High-spec computer with Ubuntu 16.04
-  * [ROS Kinetic Kame](http://wiki.ros.org/kinetic) (and [Moveit!](http://moveit.ros.org) for motion planning)
+  * [ROS Kinetic Kame](http://wiki.ros.org/kinetic){:target="_blank"} (and [Moveit!](http://moveit.ros.org){:target="_blank"} for motion planning)
   * Optional 3D sensor for pan neck mechanism, e.g. Microsoft Kinect
   * 110-220V power outlet
   * UK plug provided. Can be easily be swapped for EU/US cable/plug by customer
