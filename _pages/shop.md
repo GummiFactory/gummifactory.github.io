@@ -92,7 +92,7 @@ The arm comes fully assembled and tested. All printable parts and code are open 
   * [ROS Kinetic Kame](http://wiki.ros.org/kinetic) (and [Moveit!](http://moveit.ros.org) for motion planning)
   * Optional 3D sensor for pan neck mechanism, e.g. Microsoft Kinect
   * 110-220V power outlet
-  * UK plug provided. Can be easily be swapped for EU/US cable/plug by customer
+  * UK plug provided. Can easily be swapped for EU/US cable/plug by customer
 
 
 
