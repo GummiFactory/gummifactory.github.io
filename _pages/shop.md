@@ -47,11 +47,7 @@ The arm comes fully assembled and tested. All printable parts and code are open 
 </form>
 
 
-<<<<<<< HEAD
 *Note: If you are an international customer, please contact us for a quote with shipping: [gummi@fieldworkrobotics.com](mailto:gummi@fieldworkrobotics.com)*
-=======
-*Note: If you are an international customer, please contact us for a quote with shipping: <mailto:gummi@fieldworkrobotics.com>*
->>>>>>> e36fdfd58c3da337651c3ed82c43ee6851fd4abf
 
 
 ---
