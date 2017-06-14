@@ -47,7 +47,11 @@ The arm comes fully assembled and tested. All printable parts and code are open 
 </form>
 
 
+<<<<<<< HEAD
 *Note: If you are an international customer, please contact us for a quote with shipping: [gummi@fieldworkrobotics.com](mailto:gummi@fieldworkrobotics.com)*
+=======
+*Note: If you are an international customer, please contact us for a quote with shipping: <mailto:gummi@fieldworkrobotics.com>*
+>>>>>>> e36fdfd58c3da337651c3ed82c43ee6851fd4abf
 
 
 ---
@@ -92,7 +96,7 @@ The arm comes fully assembled and tested. All printable parts and code are open 
   * [ROS Kinetic Kame](http://wiki.ros.org/kinetic){:target="_blank"} (and [Moveit!](http://moveit.ros.org){:target="_blank"} for motion planning)
   * Optional 3D sensor for pan neck mechanism, e.g. Microsoft Kinect
   * 110-220V power outlet
-  * UK plug provided. Can be easily be swapped for EU/US cable/plug by customer
+  * UK plug provided. Can easily be swapped for EU/US cable/plug by customer
 
 
 
