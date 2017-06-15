@@ -46,8 +46,8 @@ The arm comes fully assembled and tested. All printable parts and code are open 
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
-*Note: If you are an international customer, please contact us for a quote with shipping: [gummi@fieldworkrobotics.com](mailto:gummi@fieldworkrobotics.com)*
+*Prices do not include VAT.*<br>
+*If you are an international customer, please contact us for a quote with shipping: [gummi@fieldworkrobotics.com](mailto:gummi@fieldworkrobotics.com).*
 
 
 ---

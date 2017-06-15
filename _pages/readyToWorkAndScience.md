@@ -1,4 +1,5 @@
 ---
+title: Ready to Work and Science
 layout: splash
 permalink: /readyToWorkAndScience/
 
