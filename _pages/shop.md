@@ -23,7 +23,7 @@ The desktop stand is half-height and can be clamped to a table or desktop surfac
   
 The arm comes fully assembled and tested. All printable parts and code are open source and available from our repository: [https://github.com/GummiFactory/GummiArm](https://github.com/GummiFactory/GummiArm){:target="_blank"} <br><br>
 
-**Important:** Our lead time is currently 5 weeks before shipping. Thanks for you patience! <br><br>
+**Important:** Our lead time is currently 5 weeks before shipping. Thanks for your patience! <br><br>
 '
 ---
 
@@ -55,11 +55,11 @@ The arm comes fully assembled and tested. All printable parts and code are open 
 **Features:**
 
   * 7+1 Degrees of Freedom (DoF) dexterous robot arm
-    * Sized approximately after a 50th percentile female arm
+    * Sized approximately after a 50 percentile female arm
     * 5x Variable Stiffness Actuator (VSA) joints  
     * 2x Directly driven roll joints  
     * 1x Actuator for hand actuation (can easily add more actuators)
-    * 1x Tendon-driven antropomorphic hand
+    * 1x Tendon-driven anthropomorphic hand
   * Approx. 0.5 kg payload under most conditions
     * Approx. 0.75 kg payload at rest pose (elbow at 90° and lower arm horizontal)
     * Can be easily increased by reducing pulley diameters
