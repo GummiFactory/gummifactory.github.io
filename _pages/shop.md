@@ -13,6 +13,7 @@ feature_row1:
     alt: "The GummiArm with a tool."
     type: left
     excerpt: ' 
+---
 
 ** We are currently updating our offer, please check back later, or get in touch! **
----
+
