@@ -15,5 +15,4 @@ feature_row1:
     excerpt: ' 
 
 ** We are currently updating our offer, please check back later, or get in touch! **
-
-
+---
