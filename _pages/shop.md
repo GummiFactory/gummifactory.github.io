@@ -9,5 +9,5 @@ header:
   caption:
 ---
 
-** We are currently updating our offer, please check back later, or get in touch! **
+We are currently updating our offer, please check back later, or get in touch!
 
