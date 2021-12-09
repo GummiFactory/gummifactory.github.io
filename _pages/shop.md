@@ -1,4 +1,4 @@
----
+m---
 title: "Configure your GummiArm"
 layout: splash
 permalink: /shop/
@@ -9,5 +9,5 @@ header:
   caption:
 ---
 
-We are currently updating our offer, please check back later, or get in touch!
+The GummiArm is currently not offered for saleby us, but feel free to contribute to the open source project: https://github.com/GummiArmCE
 
