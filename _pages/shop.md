@@ -1,4 +1,4 @@
-m---
+---
 title: "Configure your GummiArm"
 layout: splash
 permalink: /shop/
