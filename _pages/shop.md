@@ -9,5 +9,5 @@ header:
   caption:
 ---
 
-The GummiArm is no longer offered for sale by us, but feel free to contribute to the open source project: https://github.com/GummiArmCE
+The GummiArm is no longer offered for sale by us, but feel free to contribute to the open source project: [GummiArm Community Edition (CE)](https://github.com/GummiArmCE){:target="_blank"} 
 
